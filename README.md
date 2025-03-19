@@ -7,5 +7,9 @@
 
 ### WEEK2
 - 웹에서 데이터프레임 읽어들이기
-- moblie.csv파일 읽어서 DT,SVM,LF,RF 해보기
-- 
+- moblie.csv파일 읽어서 KNN,DT,SVM,LF,RF 해보기
+- 결측치 제거, 인코딩
+
+### WEEK3
+- 분류와 회귀의 의미
+- 회귀 DT, LF, RF, SVM으로 평균 제곱근 오차 구하기
