@@ -13,3 +13,8 @@
 ### WEEK3
 - 분류와 회귀의 의미
 - 회귀 DT, LF, RF, SVM으로 평균 제곱근 오차 구하기
+- 데이터 전처리, 샘플링 편향
+
+
+### WEEK4
+- underfiting과 overfiting 
